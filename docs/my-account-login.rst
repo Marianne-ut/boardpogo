@@ -68,9 +68,6 @@ Protect your Pogo account by using strong passwords, avoiding public
 device logins, and signing out after using shared computers. These
 security habits help maintain account safety and membership protection.
 
-Conclusion
-==========
-
 Completing the ``pogo my account login`` process correctly helps users
 securely access premium gaming environments, saved progress,
 personalized settings, membership tools, and exclusive gaming features.
